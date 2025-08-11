@@ -1,0 +1,8 @@
+Total simulated time (ms): 200
+CPU busy ms: 200
+CPU utilization (%): 100.00
+Context switches: 4
+Per-task runtimes (ms and %):
+  High: 30 ms (15.00%)
+  Low: 120 ms (60.00%)
+  Med: 50 ms (25.00%)
